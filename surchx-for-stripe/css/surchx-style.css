@@ -1,0 +1,21 @@
+.payment_method_surchx-stripe > label {
+    width: 100%;
+    display: block;
+    padding-left: 32px;
+}
+
+.payment_method_surchx-stripe img {
+    float: right;
+    width: auto;
+    margin: 4px 0 0 0;
+}
+.payment_method_surchx-stripe input#payment_method_surchx-stripe {
+    position: absolute;
+    margin-top: 9px !important;
+}
+
+.payment_method_surchx-authorize img {
+    float: right;
+    width: auto;
+    margin: 4px 0 0 0;
+}
